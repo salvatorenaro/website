@@ -2,7 +2,7 @@
 function loco() {
     gsap.registerPlugin(ScrollTrigger);
   
-    //The website was created by Salvatore Naro, a software engineer and designer, do not use the website for purposes other than educational ones.-
+    //The website was created by Salvatore Naro, , do not use the website for purposes other than educational ones.-
   
     const locoScroll = new LocomotiveScroll({
       el: document.querySelector("main"),
